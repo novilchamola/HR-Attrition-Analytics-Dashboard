@@ -10,7 +10,7 @@ To create a dashboard that can help HR to build strategies in order to reduce th
 The dataset consist 1500 records spread across 38 columns which include likes of 'EmpID','Age','Attrition','Business Travel','Daily Rate','Department','Distance From Home','Education','Education Field','Employee Count','Employee Num','Enviroment Satisfaction','Gender','Hourly Rate','Job Involvement','Job Level','Job Role','Job Satisfaction','Marital Status','Monthly Income','Salary Slab','Monthly Rate','NumOfCompaniesWorked',''Monthly Income','No. of Companies Worked','Year Since Promotion' etc
 
 # Insights Gathered:
-1] Employees in age group 26-35 have high attrition count.
+-- 1] Employees in age group 26-35 have high attrition count.
 2] Employees having education background in Life Sciences are leaving more.
 3] Top 5 designation that has high attrition count are Lab technicion, Sale executive, Research Scientist, Sales Represenative, Human Resource.
 4] Employee with satisfactory score 1 have high attrition count.
