@@ -12,11 +12,11 @@ The dataset consist 1500 records spread across 38 columns which include likes of
 # Insights Gathered:
 1. Employees in age group 26-35 have high attrition count.
 2. Employees having education background in Life Sciences are leaving more.
-3] Top 5 designation that has high attrition count are Lab technicion, Sale executive, Research Scientist, Sales Represenative, Human Resource.
-4] Employee with satisfactory score 1 have high attrition count.
-5] Employee having salary less than upto 5k are leaving more.
-6] Employye with less than 1 year in company are leaving more.
-7] Employye with job level 1 have high attrition count.
-8] Single employees have high attrition count followed by married.
-9] Employees having hourly rate 70+ are leaving more.
-10] Human Resource and Sales department have highest attrition rate.
+3. Top 5 designation that has high attrition count are Lab technicion, Sale executive, Research Scientist, Sales Represenative, Human Resource.
+4. Employee with satisfactory score 1 have high attrition count.
+5. Employee having salary less than upto 5k are leaving more.
+6. Employye with less than 1 year in company are leaving more.
+7. Employye with job level 1 have high attrition count.
+8. Single employees have high attrition count followed by married.
+9. Employees having hourly rate 70+ are leaving more.
+10. Human Resource and Sales department have highest attrition rate.
